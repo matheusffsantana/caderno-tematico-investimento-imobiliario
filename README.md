@@ -1,2 +1,2 @@
 # caderno-tematico-investimento-imobiliario
-Caderno temático sobre investimento imobiliário criado com NotebookLM - básico
+Caderno temático sobre investimento imobiliário (FIIs) criado com NotebookLM - básico
